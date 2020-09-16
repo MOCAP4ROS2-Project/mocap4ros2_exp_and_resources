@@ -1,6 +1,6 @@
-# mocap4ros_exp_and_resources
+# mocap4ros2_exp_and_resources
 This repository contains:
-- mocap4ros_exp: with all the results of the experiments to determine the correct DDS and the best QoS.
+- mocap4ros2_exp: with all the results of the experiments to determine the correct DDS and the best QoS.
 - resources: some figures to understand the project.
 
 # MOCAP4ROS2
