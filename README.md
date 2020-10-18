@@ -1,7 +1,7 @@
 # mocap4ros2_exp_and_resources
 This repository contains:
 - mocap4ros2_exp: with all the results of the experiments to determine the correct DDS and the best QoS.
-- resources: some figures to understand the project.
+- resources: some figures to understand the project and one rosbag to reproduce the mocap4ros2_vicon driver into a Linux machine.
 
 # MOCAP4ROS2
 This project provides support for ROS2 integration with Vicon cameras (MOCAP systems based on vision) and Technaid TechMCS IMUs (MOCAP systems based on motion sensors).
